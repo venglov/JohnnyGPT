@@ -1,0 +1,2 @@
+# JohnnyGPT
+LLM From Scratch 
